@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá! Eu sou José Carlos
 
-<!--
-**htu6n7yi/htu6n7yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com foco em soluções web, apaixonado por tecnologia e aprendizado contínuo.
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias
+![typescript](https://img.shields.io/badge/typescript-ffffff?logo=typescript&style=for-the-badge&color=b3d8d8&logoColor=3178C6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em Destaque
+- [Sistema Odontológico em C](link)
+- [Desafio Python + SQL](link)
+- [Portfolio com Next.js](link)
+
+## 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htu6n7yi&show_icons=true&theme=radical)
