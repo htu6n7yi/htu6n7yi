@@ -29,4 +29,4 @@ Minhas habilidades abrangem o desenvolvimento full-stack (front-end e back-end),
 
 
 ## 📈 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htu6n7yi)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htu6n7yi)
